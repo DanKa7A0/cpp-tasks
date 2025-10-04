@@ -1,0 +1,15 @@
+book 1001 2.50 Neshto si
+
+student 1 Kur Kurov
+
+teacher 2 Minka Kurova
+
+lend 1001 1
+
+lend 1001 1
+
+check 1001
+
+return 1001
+
+check 1001

@@ -1,0 +1,4 @@
+Pizza 15.90
+Burger 20.90
+Cola 3.20
+Water 1.00

@@ -1,0 +1,18 @@
+3
+google.com  
+youtube.com
+facebook.com
+
+the google.com
+music youtube.com  
+hello google.com  
+of facebook.com  
+Masquerade bg-mama.bg  
+slim facebook.com  
+shady youtube.com  
+shibiditoptop planeta.bg  
+STOP
+
+REPLACE music death  
+REMOVE hello  
+STOP

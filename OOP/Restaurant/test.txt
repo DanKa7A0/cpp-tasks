@@ -1,0 +1,6 @@
+menu
+add 1
+add 2
+discount percentage 20
+print
+end

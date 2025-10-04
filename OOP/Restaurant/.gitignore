@@ -1,0 +1,5 @@
+#ignore file for Visual Studio Code projects
+*.vscode
+
+#ignore exe files
+*.exe
